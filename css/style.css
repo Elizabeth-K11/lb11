@@ -1,0 +1,242 @@
+
+.container{
+width: 100%;
+max-width: 1920px;
+height: 40%;}
+    
+.intro{
+width: 100%;
+background:
+url('../img/fon.jpg')  repeat-y center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+width:100%;
+height:100%;}
+
+.main_title{
+font-size: 70px;
+color: rgb(41, 136, 29);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+padding-top: 4%;
+border: rgb(13, 121, 7);
+margin-top: 0;}
+
+.First_container{
+display: flex;}  
+
+.First{
+width: 50%;
+height: 500px;
+align-items: center; 
+margin-left: auto;
+margin-right: auto;}
+
+.text_1{
+text-align: center;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(53, 99, 8);
+margin-left: 10%;}
+
+.image_1{
+width: 45%;
+height: 50%;
+text-align: center ;
+border-radius: 20%;
+vertical-align: middle;
+margin-left: 25%;
+margin-top: 8%;}
+
+.second_container{
+display: flex;  
+width: 100%;
+height: 500px;}
+
+.image_2{
+width: 300px;
+height:400px;
+margin-left: 15%;
+margin-right: 15%;
+border-radius: 15%;}
+    
+.image_3{
+width:300px;
+height:400px;
+border-radius: 15%;
+margin-left: 15%;
+margin-right: 15%;}
+
+.image_4{
+width: 300px;
+height:400px;
+border-radius: 15%;
+margin-left: 15%;}
+                
+.second_content{
+width: 33%;}
+
+.text_2{
+margin-left: 30%;
+font-size: 25px;
+text-transform: uppercase;
+color: rgb(199, 103, 223);}
+
+
+.third_container{   
+font-size: 60px;
+margin: 0px 0px 38px 0px;
+color: rgb(13, 121, 7);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;}
+
+.list{
+align-items: center;
+text-align: left;
+list-style-position: inside
+}
+
+.list li{
+background: url('..');
+font-size:35px;
+margin: 0px 0px 15px 0px;
+line-height: 22px;
+color: rgb(13, 121, 7);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-top: 30px;
+}
+
+.title_to_events{
+color: rgb(13, 121, 7);
+font-size:35px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+}
+
+.fourth_container{
+display: flex; 
+width: 100%; }
+
+.image_5{
+width: 30%;}
+
+.image__5{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+margin-left: 15%;
+margin-top: 20%;
+margin-right: 15%;}
+
+.fourth_text{
+font-size: 30px;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 5%;
+text-align: center;
+width: 50%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(13, 121, 7);}
+
+.fivth_container{
+display: flex; 
+width: 100%;}
+
+.fivth_text{
+font-size: 30px;
+margin-left: 5%;
+margin-right: 5%;
+margin-top: 5%;
+text-align: center;
+width: 50%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: rgb(13, 121, 7);}
+
+.sixth_container{
+display: flex; 
+width: 100%;}
+
+.sixth_text{
+width: 40%;
+text-align: center;
+font-size: 30px;
+color: rgb(13, 121, 7);}
+
+.image_6{
+width: 300px;
+height: 300px;
+border-radius: 50%;
+margin-bottom: 10%;
+margin-top: 20%;
+margin-right: 15%;}
+
+.image_7{
+width: 300px;
+height: 300px;
+border-radius: 70%;
+margin-bottom: 10%;
+margin-right: 10%;
+margin-left: 15%;
+}
+.sixth__text{
+text-align: center;
+font-size: 30px;
+color: rgb(13, 121, 7);
+margin-top: 50px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.sixth_blok{
+width: 33%;}
+
+.seventh_container{
+display: flex; 
+width: 100%;}
+
+.seventh__text{
+width: 70%;}
+
+.seventh_blok{
+width: 50%;}
+
+.image_8{
+width: 300px;
+height: 300px;
+border-radius: 70%;
+margin-bottom: 10%;
+margin-right: 10%;
+margin-left: 25%;}
+
+.seventh_text{
+text-align: center;
+font-size: 30px;
+color: rgb(13, 121, 7);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+margin-left: 10%;}
+
+.footer{
+background-color: rgb(50, 148, 41);}
+
+.footer__row{
+display: flex;
+height:50px;
+justify-content: center;
+align-items: center;}
+
+.footer__text{
+color: rgb(13, 61, 3);
+font-size: 20px;
+letter-spacing: 0.3px;}
+
+
+
+
+
+
+
+
+
+
+
+
